@@ -17,4 +17,4 @@ Then the an image will display with the bounding boxes around the region of inte
 
 The result will be like 
 
-![alt text](https://github.com/Nathandrake229/Aadhar_Data_Extract/blob/master/image_res.jpg?raw=true)
+![alt text](https://github.com/Nathandrake229/Aadhar_Data_Extract/blob/master/images_res.jpg?raw=true)
