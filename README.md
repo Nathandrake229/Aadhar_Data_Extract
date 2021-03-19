@@ -14,3 +14,7 @@ Then the an image will display with the bounding boxes around the region of inte
   DOB
   Gender
   UID
+
+The result will be like 
+
+![alt text](https://github.com/Nathandrake229/Aadhar_Data_Extract/blob/master/image.jpg_.jpg.jpg?raw=true)
